@@ -1,0 +1,5 @@
+{
+  "name": "RetroRadio 85",
+  "description": "A simulated 80s digital radio player with backoffice management. Simulates continuous broadcast across multiple channels.",
+  "requestFramePermissions": []
+}
